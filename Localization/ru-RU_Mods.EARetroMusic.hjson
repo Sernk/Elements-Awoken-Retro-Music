@@ -1,0 +1,19 @@
+Config: {
+	WastelandMusic: Старая музыка Пустоши
+	InfernaceMusic: Старая музыка Инфернейса
+	ScourgeFighterMusic: Старая музыка Бичеборца
+	RegarothMusic: Старая музыка Регарота
+	ObsidiousMusic: Старая музыка Обсидиуса
+	PermafrostMusic: Старая музыка Пермафроста
+	AqueousMusic: Старая музыка Аквеус
+	DawnoftheVoidMusic: Старая музыка Рассвета Пустоты
+	VoidLeviathanMusic: Старая музыка Левиафана Пустоты
+	Enabled: Заменяет музыку
+
+	EARConfig: {
+		DisplayName: Конфиг Elements Awoken Retro Music
+		$parentVal: Конфиг
+	}
+}
+
+Configs.EARConfig.DisplayName: Конфиг Elements Awoken Retro Music

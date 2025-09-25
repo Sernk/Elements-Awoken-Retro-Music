@@ -1,0 +1,19 @@
+Config: {
+	WastelandMusic: Old Wasteland Music
+	InfernaceMusic: Old InfernaceMusic Music
+	ScourgeFighterMusic: Old Scourge Fighter Music
+	RegarothMusic: Old Scourge Regaroth Music
+	ObsidiousMusic: Old Scourge Obsidious Music
+	PermafrostMusic: Old Scourge Permafrost Music
+	AqueousMusic: Old Scourge Aqueous Music
+	DawnoftheVoidMusic: Old Dawn of the Void Music
+	VoidLeviathanMusic: Old Void Leviathan Music
+	Enabled: Replaces the current EA music with the old version
+
+	EARConfig: {
+		DisplayName: Elements Awoken Retro Music Config
+		$parentVal: Config
+	}
+}
+
+Configs.EARConfig.DisplayName: Elements Awoken Retro Music Config
