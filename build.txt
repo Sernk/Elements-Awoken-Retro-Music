@@ -2,3 +2,4 @@ displayName = Elements Awoken Retro Music
 author = ThatOneJuicyOrange_
 version = 0.2
 modReferences = ElementsAwoken
+buildIgnore = .vs\*, Properties\*, *.csproj, *.user, obj\*, bin\*, *.config, .git\*, .github\*, LICENSE, README.md, .editorconfig, .gitignore, .gitattributes
